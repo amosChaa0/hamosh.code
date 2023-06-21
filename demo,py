@@ -1,0 +1,39 @@
+# def add(x,y):
+#     var=x+y
+#     return var
+
+# a=int(input('enter a number'))
+# b=int(input('enter a number'))
+# amos=add(a,b)
+# print(amos)
+
+# def mo():
+#     value=a+b
+#     return value
+    
+
+# a=10
+# # b=20
+# # Total=mo()
+# # print("your number is",Total)
+# def room(cases, died):  #its kinda container of specoific process and calling 
+#     Total_death=cases+died
+#     return Total_death
+
+
+
+# cases=int(input("Enter your cases :"))
+# died= int(input("enter the total death : "))
+# Total_death=room(cases,died)
+# print("Total Death is :", Total_death)
+
+#check if given number is prime , even., odd,  
+
+Num=int(input("enter any number"))
+
+if Num%2==0:
+    print(Num,"is even")
+elif print(Num,"is odd !")
+else print("bro put your number properly !!")
+
+
